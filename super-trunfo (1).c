@@ -48,3 +48,4 @@ int main() {
     exibirCarta(carta2);
     
     return 0;
+}
